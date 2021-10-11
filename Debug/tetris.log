@@ -1,0 +1,15 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  util.cpp
+D:\Универ\Курсачи\7 семестр\Системное программирование\Бондаренко\Курсач\tetris(WinAPI)\util.h(9,16): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+D:\Универ\Курсачи\7 семестр\Системное программирование\Бондаренко\Курсач\tetris(WinAPI)\util.cpp(340,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+D:\Универ\Курсачи\7 семестр\Системное программирование\Бондаренко\Курсач\tetris(WinAPI)\util.h(9,16): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  game.cpp
+D:\Универ\Курсачи\7 семестр\Системное программирование\Бондаренко\Курсач\tetris(WinAPI)\util.h(9,16): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+D:\Универ\Курсачи\7 семестр\Системное программирование\Бондаренко\Курсач\tetris(WinAPI)\game.cpp(361,15): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  bitmap.cpp
+D:\Универ\Курсачи\7 семестр\Системное программирование\Бондаренко\Курсач\tetris(WinAPI)\util.h(9,16): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  Generating Code...
+  LINK : .\Debug\tetris.exe not found or not built by the last incremental link; performing full link
+bitmap.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  tetris.vcxproj -> D:\Универ\Курсачи\7 семестр\Системное программирование\Бондаренко\Курсач\tetris(WinAPI)\.\Debug\tetris.exe
